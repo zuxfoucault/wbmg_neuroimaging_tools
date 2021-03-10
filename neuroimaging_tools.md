@@ -17,3 +17,5 @@
 [MNE](https://mne.tools/stable/index.html)
 
 [ConWhAt](https://github.com/JohnGriffiths/ConWhAt)
+
+[SimNIBS](https://simnibs.github.io/simnibs/build/html/index.html)
